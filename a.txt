@@ -1,2 +1,6 @@
 hi 
+<<<<<<< HEAD
 this is an example of master
+=======
+this is a example of conflict concept
+>>>>>>> b1
